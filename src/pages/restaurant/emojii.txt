@@ -1,0 +1,78 @@
+🔔 General Notifications
+🔔 New message / General alert
+
+🔄 Update or change
+
+❗ Important info / warning
+
+✅ Action confirmed
+
+❌ Error or cancellation
+
+🕒 Reminder or time-sensitive info
+
+📢 Announcement or event notice
+
+🍽️ Reservations
+📅 Reservation confirmed
+
+🕓 Reservation reminder
+
+🧑‍💼 Table ready
+
+📞 Call for changes
+
+🚫 Reservation cancelled
+
+🔄 Reservation modified
+
+👥 Group booking info
+
+🧾 Menu & Orders
+📋 Menu updated
+
+🍽️ Order received
+
+⏳ Order in preparation
+
+✅ Order ready
+
+🚚 Delivery on the way
+
+🧾 Bill available
+
+💳 Payment confirmed
+
+🎉 Events & Promos
+🎉 New event announced
+
+🎶 Live music tonight
+
+🥂 Happy hour!
+
+💥 Special offer
+
+🎁 Loyalty reward
+
+🔥 Limited-time promo
+
+📍 Location & Contact
+📍 Location info
+
+📞 Contact us
+
+📬 Message received
+
+🗺️ Directions
+
+💬 Customer Interaction
+🙋 How can I help you?
+
+🤝 Thank you!
+
+😊 You're welcome
+
+📣 We’d love your feedback
+
+✨ Enjoy your experience
+
